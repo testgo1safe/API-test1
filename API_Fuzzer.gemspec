@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "API_Fuzzer"
   spec.version       = APIFuzzer::VERSION
   spec.authors       = ["Lalith Rallabhandi"]
-  spec.email         = ["lalithr95@gmail.com"]
+  spec.email         = ["marcus.mayue@gmail.com"]
 
   spec.summary       = %q{APIFuzzer gem builds api for finding security issues through a fuzzer}
   spec.description   = %q{APIFuzzer gem builds api for finding security issues through a fuzzer}
