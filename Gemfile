@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'http://insecure.rails-assets.org/'
 
 # Specify your gem's dependencies in API_Fuzzer.gemspec
 
